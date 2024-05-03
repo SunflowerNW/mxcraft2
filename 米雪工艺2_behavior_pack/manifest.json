@@ -1,0 +1,35 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "米雪工艺2开源项目地址§n§1https://github.com/SunflowerNW/mxcraft2/§r\n(C) 2024 SunflowerNW\n\n§7§l缔造者rtFandet",
+        "name": "§d§l米雪工艺§b2",
+        "uuid": "b8b9a3c5-03b7-4d10-9a5a-417a0f9ff76e",
+        "version": [ 0, 0, 2 ],
+        "min_engine_version": [ 1, 18, 31 ]
+    },
+    "modules": [
+        {
+            "description": "米雪工艺2开源项目地址§n§1https://github.com/SunflowerNW/mxcraft2/§r\n(C) 2024 SunflowerNW\n\n§7§l缔造者rtFandet",
+            "type": "data",
+            "uuid": "9d5eaef9-70dc-423a-9411-8e5fe9b7cc49",
+            "version": [0, 0, 2]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "f90b6044-90d9-4b28-b1cf-87ec5035c972",
+            "version": [0, 0, 2]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "rtFandet",
+            "XCRan",
+            "muyun",
+            "SunflowerNW Network.",
+            "..."
+        ],
+        "license": "CC BY-SA 4.0",
+        "url": "https://github.com/SunflowerNW/mxcraft2/"
+    }
+}
